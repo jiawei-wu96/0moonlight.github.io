@@ -12,18 +12,18 @@
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Tsinghua University
+      year: 2017-2023
       description:
-        - Description 1.
+        - Quantum information theory and quantum cryptography.
         - Description 2.
         - title: Description 3.
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Bachelor
+      institution: Huazhong University of Science and Technology
+      year: 2013-2017
       description:
         - Description 1.
         - Description 2.
@@ -31,8 +31,8 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+    - title: Research fellow (Postdoc)
+      institution: Centre for Quantum Technologies
       year: 1933 - 1955
       description:
         - Description 1.
@@ -61,12 +61,12 @@
       institution: University of Zurich, Zurich, Switzerland
       year: 1909 - 1911
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+# - title: Open Source Projects
+#   type: time_table
+#   contents:
+#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#       year: 2015-now
+#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
@@ -82,10 +82,10 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Quantum cryptography.
       items:
-        - Description 1.
-        - Description 2.
+        - Multiparty cryptography primitives: bit commitment, oblivious transfer....
+        - Composable framework.
     - title: Topic 2.
       items:
         - Description 1.
