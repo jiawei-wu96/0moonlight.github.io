@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>CQT,NUS</a>. 
+subtitle: <a href='#'>吴家为</a>. 
 
 profile:
   align: right
@@ -17,4 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Welcome to the world of Jiawei! I am a researcher on various topics of quantum cryptography. 
+Welcome to the world of Jiawei! I'm a researcher on various topics of quantum cryptography. Currently, I'm working as a postdoc in [Marco Tomamichel's group](https://marcotom.info) in Centre for Quantum Technologies, National University of Singapore.
+
+My research involves multiparty computation, bit commitment, and composable framework. For more details, see my [publications](https://jiawei-wu96.github.io/publications/).
