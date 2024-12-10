@@ -37,12 +37,22 @@
     {
       "institution": "Tsinghua University",
       "location": "Beijing, China",
-      "url": "www.tsinghua.edu.cn/en/",
+      "url": "https://www.tsinghua.edu.cn/en/",
       "area": "Quantum information theory and quantum cryptography",
       "studyType": "PhD",
       "startDate": "2017.09",
       "endDate": "2023.01",
       "courses": ["Wiretap channel theory", "Quantum secure direct communication"]
+    },
+    {
+      "institution": "Huazhong University of Science and Technology",
+      "location": "Wuhan, China",
+      "url": "https://english.hust.edu.cn/",
+      "area": "Optics and electronics",
+      "studyType": "Bachelor",
+      "startDate": "2013.09",
+      "endDate": "2017.06",
+      "courses": ["Laser optics", "Fibre comminication"]
     }
   ],
   "awards": [
@@ -51,7 +61,7 @@
       "date": "2021-06",
       "awarder": "Tsinghua University",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "summary": ""
     }
   ],
   "certificates": [
@@ -110,6 +120,11 @@
   "skills": [
     {
       "name": "Physics",
+      "level": "Master",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Matlab",
       "level": "Master",
       "icon": "fa-solid fa-hashtag"
     }
