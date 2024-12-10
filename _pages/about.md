@@ -6,7 +6,7 @@ subtitle: <a href='#'>CQT,NUS</a>.
 
 profile:
   align: right
-  image: jiawei.jpg
+  image: jiawei.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Centre for Quantum Technologies, </p>
