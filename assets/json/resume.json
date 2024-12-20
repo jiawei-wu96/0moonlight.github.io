@@ -3,7 +3,7 @@
     "name": "Jiawei Wu",
     "label": "Scientist",
     "image": "",
-    "email": "constchar at gmail dot com",
+    "email": "constchar0212 at gmail dot com",
     "url": "jiawei-wu96.github.io",
     "summary": "A quantum information theorist",
     "location": {
@@ -60,45 +60,14 @@
       "title": "Tsinghua Zhuoyu scholarship",
       "date": "2021-06",
       "awarder": "Tsinghua University",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "Meritorious Winner of Mathematical Constest in Modeling(MCM)",
+      "date": "2015-02",
+      "awarder": "The Consortium for Mathematics and its Applications (COMAP)",
+      "url": "https://www.contest.comap.com/undergraduate/contests/mcm/contests/2015/results/#a",
+      "summary": ""
     }
   ],
   "publications": [
@@ -107,19 +76,34 @@
       "publisher": "ArXiv",
       "releaseDate": "2023-06",
       "url": "https://doi.org/10.48550/arXiv.2402.15233",
-      "summary": "While eak coin fliping can be constructed in the stand-alone sense, we show it is impossible within the plain model in the abstract cryptography framework."
+      "summary": "While weak coin fliping can be constructed in the stand-alone sense, we show it is impossible within the plain model in the abstract cryptography framework."
     },
     {
-      "name": "Quantum Secure Direct Communication with Entanglement Source and Single-Photon Measurement",
+      "name": "Quantum Secure Direct Communication with Private Dense Coding Using a General Preshared Quantum State",
       "publisher": "APS",
-      "releaseDate": "2020-06",
-      "url": "https://doi.org/10.1007/s11433-020-1576-y",
-      "summary": ""
+      "releaseDate": "2022-06",
+      "url": "https://doi.org/10.1103/PhysRevApplied.17.064011",
+      "summary": "We construct a private dense coding framework to analyze the non-asymptotic performance of quantum secure direct communication."
+    },
+    {
+      "name": "For more publications, see the publication page",
+      "releaseDate": "-",
+      "url": "https://jiawei-wu96.github.io/publications/"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Python",
+      "level": "Basic",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Quantum Computing",
+      "level": "Medium",
+      "icon": "fa-solid fa-hashtag"
+    },
+    {
+      "name": "Cryptography",
       "level": "Master",
       "icon": "fa-solid fa-hashtag"
     },
@@ -154,19 +138,19 @@
   ],
   "references": [
     {
-      "name": "Professor Marco Tomamichel",
+      "name": "Marco Tomamichel",
       "url": "https://marcotom.info",
       "icon": "fa-solid fa-laptop",
       "reference": ""
     },
     {
-      "name": "Professor Masahito Hayashi",
+      "name": "Masahito Hayashi",
       "url": "https://mhayashi.info",
       "icon": "fa-solid fa-laptop",
       "reference": ""
     },
     {
-      "name": "Professor Guilu Long",
+      "name": "Guilu Long",
       "url": "https://www.phys.tsinghua.edu.cn/phyen/info/1064/1329.htm",
       "icon": "fa-solid fa-laptop",
       "reference": ""
